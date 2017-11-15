@@ -14,7 +14,6 @@ Steps :
 4)	Assigning a sentiment(value that indicates how positive or negative a word is) for each tweet 
 5)	Classification algorithm
 6)	 Plots.
-7)	
 Plot 1 – plot of how many of the overall tweets conveyed a positive, negative and neutral sentiment. The emotions of the tweets are greatly skewed towards positive.
 
 Plot 2 – Exact sentiment values of tweets . Tweets were classified as sentiment score > 0.0 – positive , score < 0.0 negative and neutral for 0.0
